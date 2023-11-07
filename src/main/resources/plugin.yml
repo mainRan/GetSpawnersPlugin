@@ -1,0 +1,5 @@
+name: GetSpawners
+version: '${project.version}'
+main: me.terramain.getspawners.Main
+api-version: 1.20
+authors: [TerraMain]
